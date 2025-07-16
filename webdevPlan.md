@@ -11,7 +11,7 @@
 
 [HTML + CSS](https://www.youtube.com/watch?v=G3e-cpL7ofc)
 
-[JS](https://www.youtube.com/watch?v=PkZNo7MFNFg)
+~~[JS](https://www.youtube.com/watch?v=PkZNo7MFNFg)~~
 
 
 [Cmd line](https://www.youtube.com/watch?v=uwAqEzhyjtw)
@@ -26,13 +26,13 @@ https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/
 [CSS Grid Layout](https://css-tricks.com/snippets/css/complete-guide-grid/)
 https://www.joshwcomeau.com/css/interactive-guide-to-grid/
 
-[Tailwind](https://www.youtube.com/watch?v=6biMWgD6_JY)
+~~[Tailwind](https://www.youtube.com/watch?v=6biMWgD6_JY)~~
 
-React?
+~~React?
 npm?
 vite?
 typescript??
-next.js??  -- for all these check road map video (first one) at min 7:00
+next.js??  -- for all these check road map video (first one) at min 7:00~~
 
 Finish Basic Personal Porfolio
 
