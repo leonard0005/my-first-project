@@ -14,7 +14,7 @@
 ~~[JS](https://www.youtube.com/watch?v=PkZNo7MFNFg)~~
 
 
-- [ ] [Cmd line](https://www.youtube.com/watch?v=uwAqEzhyjtw)
+- [X] [Cmd line](https://www.youtube.com/watch?v=uwAqEzhyjtw)
 
 - [ ] [Git/github](https://www.youtube.com/watch?v=tRZGeaHPoaw)
 
