@@ -3,22 +3,22 @@
 
 ## Personal Portfolio (Frontend)
 
-[RoadMap](https://www.youtube.com/watch?v=lQrcQ3e4mkA)
-[Road Map](https://roadmap.sh/frontend?r=frontend-beginner)
+- [X] [RoadMap](https://www.youtube.com/watch?v=lQrcQ3e4mkA)
+- [X] [Road Map](https://roadmap.sh/frontend?r=frontend-beginner)
 
 
-[Frontend overview](https://www.youtube.com/watch?v=WG5ikvJ2TKA)
+- [X] [Frontend overview](https://www.youtube.com/watch?v=WG5ikvJ2TKA)
 
-[HTML + CSS](https://www.youtube.com/watch?v=G3e-cpL7ofc)
+- [X] [HTML + CSS](https://www.youtube.com/watch?v=G3e-cpL7ofc)
 
 ~~[JS](https://www.youtube.com/watch?v=PkZNo7MFNFg)~~
 
 
-[Cmd line](https://www.youtube.com/watch?v=uwAqEzhyjtw)
+- [] [Cmd line](https://www.youtube.com/watch?v=uwAqEzhyjtw)
 
-[Git/github](https://www.youtube.com/watch?v=tRZGeaHPoaw)
+- [] [Git/github](https://www.youtube.com/watch?v=tRZGeaHPoaw)
 
-[Github desktop](https://www.youtube.com/watch?v=8Dd7KRpKeaE)
+- [] [Github desktop](https://www.youtube.com/watch?v=8Dd7KRpKeaE)
 
 [CSS Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/
@@ -34,7 +34,7 @@ vite?
 typescript??
 next.js??  -- for all these check road map video (first one) at min 7:00~~
 
-Finish Basic Personal Porfolio
+- [] Finish Basic Personal Porfolio
 
 ## Tune (Frontend)
 Draw flow and landing pages of website
