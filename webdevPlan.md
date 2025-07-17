@@ -14,11 +14,11 @@
 ~~[JS](https://www.youtube.com/watch?v=PkZNo7MFNFg)~~
 
 
-- [] [Cmd line](https://www.youtube.com/watch?v=uwAqEzhyjtw)
+- [ ] [Cmd line](https://www.youtube.com/watch?v=uwAqEzhyjtw)
 
-- [] [Git/github](https://www.youtube.com/watch?v=tRZGeaHPoaw)
+- [ ] [Git/github](https://www.youtube.com/watch?v=tRZGeaHPoaw)
 
-- [] [Github desktop](https://www.youtube.com/watch?v=8Dd7KRpKeaE)
+- [ ] [Github desktop](https://www.youtube.com/watch?v=8Dd7KRpKeaE)
 
 [CSS Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/
