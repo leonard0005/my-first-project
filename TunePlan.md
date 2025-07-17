@@ -2,7 +2,10 @@
 
 **Goal:** Learn Java fundamentals + Build a professional ear training application  
 **Timeline:** 6 weeks (10 hours/week = 1.5 hours daily)  
-**Tech Stack:** Java + JavaFX + CSS
+**Tech Stack:** Java + JavaFX + CSS   
+USE Tools: Intellij (Java IDE), Gradle (build tool), ?JUnit(Testing)?
+For CPEN221 (Karthik Pattabiraman, Mohammad Shahrad)
+
 
 ---
 
@@ -12,12 +15,18 @@
 **Focus:** 80% Learning | 20% Planning
 
 **Learn:**
-- Variables, data types, operators
+
+- [ ] Complete The Other roadmap
+
+- [ ] [Java Install Overview just watch start](https://www.youtube.com/watch?v=eIrMbAQSU34)
+- [ ] [Java](https://www.youtube.com/watch?v=8cm1x4bC610)
+- [ ] [Java Fx -look for more options???](https://www.youtube.com/watch?v=9XJicRt_FaI)
+
+**Deliverable:** Write simple console programs confidently 
+(know: - Variables, data types, operators
 - Control flow (if/else, loops) 
 - Methods and basic classes
-- Arrays and ArrayLists
-
-**Deliverable:** Write simple console programs confidently
+- Arrays and ArrayLists)
 
 ---
 
