@@ -44,6 +44,9 @@ next.js??  -- for all these check road map video (first one) at min 7:00~~
 ## Tune (Backend)
 - [ ] [Backend overview](https://www.youtube.com/watch?v=XBu54nfzxAQ)
 
+## Extras:
+- [ ] [System Design](https://www.youtube.com/watch?v=F2FmTdLtb_4)
+
 
 
 
