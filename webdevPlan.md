@@ -16,7 +16,7 @@
 
 - [X] [Cmd line](https://www.youtube.com/watch?v=uwAqEzhyjtw)
 
-- [ ] [Git/github](https://www.youtube.com/watch?v=tRZGeaHPoaw)
+- [X] [Git/github](https://www.youtube.com/watch?v=tRZGeaHPoaw)
 
 - [ ] [Github desktop](https://www.youtube.com/watch?v=8Dd7KRpKeaE)
 
