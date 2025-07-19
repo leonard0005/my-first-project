@@ -17,6 +17,7 @@
 - [X] [Cmd line](https://www.youtube.com/watch?v=uwAqEzhyjtw)
 
 - [X] [Git/github](https://www.youtube.com/watch?v=tRZGeaHPoaw)
+- [X] Do research on Job market skills and paths. Check docx in -> "C:\Users\leoni\OneDrive - UBC\Personal\JOBS\Summer25"
 
 - [ ] [Github desktop](https://www.youtube.com/watch?v=8Dd7KRpKeaE)
 
